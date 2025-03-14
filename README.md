@@ -3,6 +3,7 @@
 This is a starter pack for creating React projects with Tailwind CSS and TypeScript configured. It uses React version 19, Tailwind CSS version 3.4.17 and TypeScript 5.7.2.
 
 ## Usage
+
 This starter pack includes a basic setup for using Tailwind CSS with React. To start building your own components and styles, follow these steps:
 
 Clone the repository to your local machine.
@@ -21,7 +22,7 @@ The project is set up to use postcss-cli to process your CSS files.
 
 ## Commit
 
-The project is also Commitizen friendly and use Commitizen to format your commit. Visit [commitizen](https://www.npmjs.com/package/commitizen) for more info
+The project is also Commitizen friendly. Commitizen formats your commits. Visit [commitizen](https://www.npmjs.com/package/commitizen) for more info.
 
 Install Commitizen locally:
 
@@ -40,4 +41,5 @@ Should you wish to add to this starter a pre-commit hook such as **husky**, you 
 **HAPPY CODING!**
 
 ## Contributing
+
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
